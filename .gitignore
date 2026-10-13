@@ -1,0 +1,10 @@
+out/
+src/Makefile
+*_m.h
+*_m.cc
+*.so
+*.dll
+*.dylib
+simulations/results/
+analysis/csv/
+analysis/figures/
